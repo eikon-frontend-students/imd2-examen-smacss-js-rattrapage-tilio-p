@@ -64,3 +64,19 @@ p {
   font-weight: 400;
   padding-bottom: 20px;
 }
+
+.l-footer h2.is-active {
+  color: white;
+}
+
+.article img.is-active {
+  transform: rotate(-25deg);
+
+  &.art1 {
+    background: var(--red, #cf9697);
+  }
+
+  &.art3 {
+    background: var(--light-blue, #c0d9d9);
+  }
+}
