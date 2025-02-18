@@ -1,0 +1,16 @@
+.l-header {
+  display: flex;
+  padding: 0px 52px 20px 53px;
+  justify-content: center;
+  align-items: center;
+  background: var(--dark-blue, #005564);
+}
+
+.l-footer {
+  height: 325px;
+  background: var(--light-blue, #c0d9d9);
+}
+
+.l-advantage {
+  padding-top: 20px;
+}
